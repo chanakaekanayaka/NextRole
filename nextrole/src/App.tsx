@@ -32,6 +32,7 @@ const App = () => {
             <MainLayout/>
           </ProtectedRoutes>}>
 
+          {/*add all the protected routes*/}
         </Route>
 
       </Routes>
